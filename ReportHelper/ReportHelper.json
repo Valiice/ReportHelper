@@ -1,0 +1,10 @@
+{
+  "Name": "Report Helper",
+  "InternalName": "ReportHelper",
+  "Author": "Vali",
+  "Punchline": "Write harassment reports without the hassle.",
+  "Description": "Opens next to the game's report form. Lists the players you were recently in a party or alliance with or who talked near you, shows what they said, and builds the report text from a template that you copy and paste into the form. Nothing is sent or submitted for you. Open by hand with /reporthelper.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Valiice/ReportHelper",
+  "Tags": ["report", "harassment", "chat", "party"]
+}
