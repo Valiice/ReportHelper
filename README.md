@@ -42,6 +42,36 @@ The default template follows the six prompts of the game's own harassment form. 
 
 `{players}` `{where}` `{when}` `{description}` `{quotes}` `{channels}`
 
+The default template, in case you changed it and want it back:
+
+Title:
+
+```
+Harassment by {players} in {where}
+```
+
+Body:
+
+```
+■ Character Name(s) and Home World (if known):
+{players}
+
+■ World and area/duty where the incident occurred:
+{where}
+
+■ Approximate date and time of the incident:
+{when}
+
+■ Detailed description of the incident:
+{description}
+
+■ Comments made by the player(s):
+{quotes}
+
+■ Chat mode used:
+{channels}
+```
+
 ## Limits of the game's form
 
 - The title holds 200 characters.
